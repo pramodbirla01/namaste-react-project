@@ -1,0 +1,25 @@
+{
+  "name": "inception",
+  "version": "1.0.0",
+  "description": "learning npm",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "chalo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pramodbirla01"
+  },
+  "author": "Pramod birla",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.26.2"
+  }
+}
